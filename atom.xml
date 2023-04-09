@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://iqiyee.github.io</id>
+    <title>九多壹</title>
+    <updated>2023-04-09T06:08:46.521Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://iqiyee.github.io"/>
+    <link rel="self" href="https://iqiyee.github.io/atom.xml"/>
+    <subtitle>阅读别人的故事，分享自己的人生。</subtitle>
+    <logo>https://iqiyee.github.io/images/avatar.png</logo>
+    <icon>https://iqiyee.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 九多壹</rights>
+    <entry>
+        <title type="html"><![CDATA[我到底为了什么写博客？]]></title>
+        <id>https://iqiyee.github.io/z8lTLTIIf/</id>
+        <link href="https://iqiyee.github.io/z8lTLTIIf/">
+        </link>
+        <updated>2023-04-09T05:36:31.000Z</updated>
+        <content type="html"><![CDATA[<p>这个问题我已经想了好久了，我建博客是为了什么，之前一直都是在停留在折腾主题、优化代码、选择主机等……却忘记了博客的初心：<strong>写</strong>！</p>
+<p>这个域名是2011年注册的，到现在已有12年了，那时候注册的时候就想着我要建一个高大上的站点，要如何如何……一直在找合适的程序，一直在找合适的模板，一直学习如何优化速度，却忘了，最基本的也是最核心的：<strong>内容</strong>，想写一些想法，怕被笑话；想写一写专业文，知识储备不够；想写流水账，自己都看不下去。所以啊，浑浑噩噩、不知不觉就过了12年了！</p>
+<p>到现在这个博客仍然没有超过五篇文章，有点讽刺。服务器3年前到期了，没有继续续费；所有内容随之丢失，其实也没有什么好丢的。域名备案去年被阿里云给注销了，七牛云去年7月份也给停了，但是我仍然保留了这个域名，虽然不咋地。</p>
+<p>我觉得我以后都不会再折腾独立博客了，似乎我再也不会去折腾了，最多转战公众号之类的，可到最后，我公众号也没敢去写，因为，已经不知道怎么写了。其实，更多的是不知如何写，我已经被生活折磨的“有气无力”了，<strong>我需要一个能发泄内心压力的地方！</strong></p>
+<p>婚后有了孩子，重心也随之放在家庭和工作上了，爱好什么的，似乎跟我没有关系了。每天过的生活可以称之为鸡飞狗跳的，在职场上与领导与客户“相互博弈”，在家与孩子“斗智斗勇”，时间它不允许我有过多的爱好。但我常在夜深人静的时候想，我到底为了什么活着？只是来这人间一趟，体验活着的酸甜苦辣咸吗？总得留点什么吧。亦或者等我老了，我可以翻看下现在写的东西，老年生活也不会那么枯燥了呢。</p>
+<p>其实很可惜，那些年的记录丢的丢，损坏的损坏，基本没留下了。但既然没留下那就随它吧，此时此刻，我又重新上路开始了！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://iqiyee.github.io/hello-gridea/</id>
+        <link href="https://iqiyee.github.io/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[景德镇之行]]></title>
+        <id>https://iqiyee.github.io/mMsu9SMeD/</id>
+        <link href="https://iqiyee.github.io/mMsu9SMeD/">
+        </link>
+        <updated>2016-12-12T05:32:17.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>	买了张火车票，坐了15小时火车，来到了传说中的“瓷都”景德镇。
+</code></pre>
+<h3>在旅途</h3>
+因为买不到卧铺，所以只好坐硬座，刚开始坐的时候，腰酸腿疼，后来坐了几个小时后反倒适应了，腰不酸了，腿不痛了~（怎么听起来像某广告词？）
+在车上认识了一个"15小时朋友"，这是我自己取得,意在我和他们做了15小时的朋友，萍水相逢,相识有缘！一路聊聊停停，给枯燥的旅途增加了不少乐趣。
+话说，在旅途的人们，不管是回家的，还是出差的，或者去旅游的，都要在这个小小的车厢里呆上不短的时间，睡不安稳，吃的也不好。而且火车上的东西特别贵，嗯，有点像景区的价格，唯一和景区不同的是它品种少还不好吃，当然，景区的也好吃不了去哪！
+终于熬过了15小时，我到站了，没有和“15小时朋友”告别，因为他在休息，他还有近一半的路程。&#128512;
+只能祝愿他早点回到家和家人相聚...
+<h3>零距离</h3>
+其实，我来景德镇的目的很简单，只是为了见一个和我认识很久却没见过面的朋友（相对于网友这称呼，我更愿意称呼为朋友）。
+本来是想给她一个惊喜的，然而，最终我还是没忍住，就快到的时候跟她说了，然后，惊喜就变成了惊吓 (ー_ー)!!
+嗯，想要给人惊喜，必须得保密！保密！保密！重要的事说三遍。
+然而，白天却因为没睡好（坐车前一天和坐车时都没休息好），结果我睡了一个白天......
+晚上，和她去外面逛了逛，她带我去吃了据说很好吃的肉夹馍，个人觉得还好，很多地方需要改进（难道是因为我当了伪厨师后开始装x了？），本来是想去陶溪川看陶瓷的，可惜太晚了，人家都关门了。
+路过肯德基，她说要不吃个甜筒？付款的时候，闹了一个小尴尬，她给手机给工作人员，我说让我来吧，我来吧......她说，这只是会员卡，在我尴尬的那一下，她麻利的刷了支付宝，额，应该我来给着~
+坐在肯德基里，俩人吃着甜筒，却又不知道该聊啥了，冷场了。（回去必须恶补这方面知识！）
+<h3>看电影</h3>
+后来，她说要不去看电影吧，搜了一下，然后和她去看了《你的名字》，在此之前只听说了评分很高，看过都说好，我只能说拍的很赞，因为大部分时间我都看字幕去了......听不懂日语的悲哀~
+一开始（没看剧情简介的时候）我是懵的，给我的感觉就是比较混乱，到后来才发现，原来如此！所以，以后看电影一定要看剧情简介，不过不看剧情简介观看电影也别有一番体验。
+最后引用电影相关的一段歌词：
+<blockquote>梦里相逢人不见，若知是梦何须醒。纵然梦里常幽会，怎比真如见一回。
+原文：思ひつつ寝ればや人の见えつらむ梦と知りせば覚めざらましを。
+（引用自百度百科，据新海诚说《你的名字》灵感来源于这段歌词）</blockquote>
+最后一句很好的描述了我此行的目的和动机。]]></content>
+    </entry>
+</feed>
